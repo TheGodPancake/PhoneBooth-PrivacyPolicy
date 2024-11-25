@@ -15,11 +15,11 @@ Improve Our Services: To enhance our bot’s features and user experience, inclu
 Compliance with Discord's Terms: To ensure that all users are complying with Discord’s Terms of Service and the guidelines established by the PhoneBooth team.
 3. Data Retention
 
-We retain user data only for as long as necessary to provide the service and comply with applicable legal requirements. If you choose to stop using the PhoneBooth bot, your data will be deleted upon request.
+We do not store user data, it is only temporarily collected to provide the service and comply with applicable legal requirements.
 
 4. Data Security
 
-We take the security of your data seriously. We implement appropriate technical and organizational measures to protect your data from unauthorized access, alteration, or destruction. However, please note that no method of transmission over the internet is 100% secure.
+We take the security of your data seriously. We implement appropriate technical and organizational measures to protect your data from unauthorized access, alteration, or destruction.
 
 5. Third-Party Links
 
@@ -29,7 +29,6 @@ PhoneBooth may provide links to third-party sites, including Discord's safety an
 
 As a user of PhoneBooth, you have the right to:
 
-Access and Control Your Data: You can request access to or deletion of your personal data at any time by contacting us through the designated support channels.
 Opt-Out of Data Collection: If you do not want your data to be collected, you can stop using the PhoneBooth bot at any time. However, this may affect the bot's ability to function.
 7. Changes to This Privacy Policy
 
